@@ -6,7 +6,7 @@ Lister les fonctionnalités et leurs disponibilités chez les clouds FR
 
 ### Global
 
-|  | OVHcloud | Scaleway | Outscale | Clever Cloud |
+|  | OVHcloud | Scaleway | Outscale |  Cloud Temple|
 | - | -       | -        | -        | -            |
 | Aggregation des logs |
 | Gestion d'identité | | ✅ [beta](https://www.scaleway.com/fr/betas/#iam-identity-and-access-management) | | |
@@ -22,7 +22,7 @@ Lister les fonctionnalités et leurs disponibilités chez les clouds FR
 
 ### Calcul
 
-|  | OVHcloud | Scaleway | Outscale | Clever Cloud |
+|  | OVHcloud | Scaleway | Outscale |  Cloud Temple|
 | - | -       | -        | -        | -            |
 | Architecture ARM |
 | GPU |
@@ -31,7 +31,7 @@ Lister les fonctionnalités et leurs disponibilités chez les clouds FR
 
 ### Réseau
 
-|  | OVHcloud | Scaleway | Outscale | Clever Cloud |
+|  | OVHcloud | Scaleway | Outscale |  Cloud Temple|
 | - | -       | -        | -        | -            |
 | Réseau Privé |
 | Appairage |
@@ -48,7 +48,7 @@ Lister les fonctionnalités et leurs disponibilités chez les clouds FR
 
 ### Serverless
 
-|  | OVHcloud | Scaleway | Outscale | Clever Cloud |
+|  | OVHcloud | Scaleway | Outscale |  Cloud Temple|
 | - | -       | -        | -        | -            |
 | Framework de dev |
 | Runtime |
@@ -61,7 +61,7 @@ Lister les fonctionnalités et leurs disponibilités chez les clouds FR
 
 ### Stockage
 
-|  | OVHcloud | Scaleway | Outscale | Clever Cloud |
+|  | OVHcloud | Scaleway | Outscale |  Cloud Temple|
 | - | -       | -        | -        | -            |
 | local persistant |
 | partagé |
@@ -69,7 +69,7 @@ Lister les fonctionnalités et leurs disponibilités chez les clouds FR
 
 ### Stockage Objet
 
-|  | OVHcloud | Scaleway | Outscale | Clever Cloud |
+|  | OVHcloud | Scaleway | Outscale |  Cloud Temple|
 | - | -       | -        | -        | -            |
 | Objet S3 compatible |
 | Life-cycle |
@@ -77,7 +77,7 @@ Lister les fonctionnalités et leurs disponibilités chez les clouds FR
 
 ### Database
 
-|  | OVHcloud | Scaleway | Outscale | Clever Cloud |
+|  | OVHcloud | Scaleway | Outscale |  Cloud Temple|
 | - | -       | -        | -        | -            |
 | Relational (MySQL, Postgres) |
 | NoSQL (MongoDB, Cassandra) |
@@ -88,7 +88,7 @@ Lister les fonctionnalités et leurs disponibilités chez les clouds FR
 
 ### Kubernetes
 
-|  | OVHcloud | Scaleway | Outscale | Clever Cloud |
+|  | OVHcloud | Scaleway | Outscale |  Cloud Temple|
 | - | -       | -        | -        | -            |
 | Sans noeud |
 | API privée |
@@ -101,7 +101,7 @@ Lister les fonctionnalités et leurs disponibilités chez les clouds FR
 
 ## Outillage
 
-|  | OVHcloud | Scaleway | Outscale | Clever Cloud |
+|  | OVHcloud | Scaleway | Outscale |  Cloud Temple|
 | - | -       | -        | -        | -            |
 | CLI |
 | Terraform provider |
@@ -111,7 +111,7 @@ Lister les fonctionnalités et leurs disponibilités chez les clouds FR
 
 ## Compliance
 
-|  | OVHcloud | Scaleway | Outscale | Clever Cloud |
+|  | OVHcloud | Scaleway | Outscale |  Cloud Temple|
 | - | -       | -        | -        | -            |
 | ISO 27001 |
 | HDS |
